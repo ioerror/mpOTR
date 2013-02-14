@@ -61,9 +61,6 @@ multiplexed by the Cryptocat server. Currently, this is an Elliptic Curve
 Diffie-Hellman key exchange authenticated with each principal's long-term ECDSA
 key.
 
->   XXX: Implement deniability - lucky us, we haven't implemented persistence of
->   identity keys. We get deniability on accident.
-
 After completing pair-wise key exchange, each party sends messages to confirm
 correct receipt of ephemeral keys, as described by the mpOTR protocol.
 
