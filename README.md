@@ -51,6 +51,8 @@ sends its nickname and a random number to the server, which are shared by the
 server and used to generate a unique, non-secret session ID which is shared
 between all parties.
 
+    XXX: Do we really want to reveal the nickname to the server?
+
 >   XXX: TODO: Enforce binding that each client's value for the channel name is
 > consistent. This could be checked in the Assert() message before allowing chat.
 
