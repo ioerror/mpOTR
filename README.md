@@ -38,12 +38,7 @@ Alice, Bob, Mallory, and Eve wish to have a chat using the XMPP
 chat server crypto.cat in the channel '#protocol-spec'.
 
 Alice generates a long term private/public key pair for verification of her
-identity. She does this once and (optionally) stores it for all time.
-
-> XXX: TODO: We have not yet implemented persistence of this key or a way to
->   verify the key.
->   XXX: TODO: We need to implement binding if we want to bind to specific
->   servers.
+identity. She does this once and MAY store it for all time.
 
 Currently, any time the list of participants changes, it is necessary to
 re-start the key-agreement protocol. In the future, it may be beneficial to
