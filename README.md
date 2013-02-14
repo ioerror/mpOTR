@@ -53,8 +53,8 @@ between all parties.
 
     XXX: Do we really want to reveal the nickname to the server?
 
->   XXX: TODO: Enforce binding that each client's value for the channel name is
-> consistent. This could be checked in the Assert() message before allowing chat.
+    XXX: TODO: Enforce binding that each client's value for the channel name is
+    consistent.
 
 Each principal performs a pair-wise deniable authenticated key-exchange,
 multiplexed by the Cryptocat server. Currently, this is an Elliptic Curve
