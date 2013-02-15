@@ -141,10 +141,10 @@ messages.
 ##### 4. Historical note about this document:
 
 This document is a collaborative effort by a number of people, often in person,
-over more than one full Earth year.  It has lived in git repositories, email
-lists, wikis and text files on various computers.  If you feel that this
-document should credit you, I encourage you to submit a pull request or to open
-a bug.  This document was copied from the Cryptocat Wiki which was a copy from
+over more than one full Earth year. It has lived in git repositories, email
+lists, wikis and text files on various computers. If you feel that this
+document should credit you, please submit a pull request or open
+a bug. This document was copied from the Cryptocat Wiki which was a copy from
 the Cryptocat git repository which was a copy from a text file on a hard disk.
 Historical information about the document has not been carefully tracked.
 
@@ -154,10 +154,16 @@ count as a LICENSE declaration.
 
 ##### 5. Authors and contributors
 
-This document was authored by a number of anonymous contributors
-It was also worked on by a few named individuals including but not
-limited to the following list: Abel Luck, Andy Isaacson, Arturo Filasto,
-DrWhax, Ian Goldberg, Jacob Appelbaum, Joseph Bonneau, Nadim Kobeissi and
-others.
+This document was authored by a number of anonymous contributors, and was also worked on by a few named individuals 
+including, but not limited to:
+- Abel Luck (@abeluck)
+- Andy Isaacson (@radii)
+- Arturo Filasto (@hellais)
+- DrWhax (@drwhax)
+- Ian Goldberg
+- Jacob Appelbaum (@ioerror)
+- Joseph Bonneau
+- Nadim Kobeissi (@kaepora)
+...and others.
 
 Please submit a pull request if you feel that your name belongs on this document.
