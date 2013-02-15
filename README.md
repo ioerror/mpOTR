@@ -148,6 +148,10 @@ a bug.  This document was copied from the Cryptocat Wiki which was a copy from
 the Cryptocat git repository which was a copy from a text file on a hard disk.
 Historical information about the document has not been carefully tracked.
 
+Nadim Kobeissi has asserted that this document is licensed under the AGPL
+without discussing with any of the other authors. This may or may not actually
+count as a LICENSE declaration.
+
 ##### 5. Authors and contributors
 
 This document was authored by a number of anonymous contributors
