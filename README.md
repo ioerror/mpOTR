@@ -138,3 +138,16 @@ messages.
 > http://www.cypherpunks.ca/~iang/pubs/mpotr.pdf
 > SHA1(mpotr.pdf) = f32d0371d82a295bd5437797f0494071f65342a1
 
+##### 4. Historical note about this document:
+
+This document is a collaborative effort by a number of people, often in person,
+over more than one full Earth year.  It has lived in git repositories, email
+lists, wikis and text files on various computers.  If you feel that this
+document should credit you, I encourage you to submit a pull request or to open
+a bug.  This document was copied from the Cryptocat Wiki which was a copy from
+the Cryptocat git repository which was a copy from a text file on a hard disk.
+Historical information about the document has not been carefully tracked.
+
+##### 5. Authors
+
+ This document was authored by a number of anonymous contributors
