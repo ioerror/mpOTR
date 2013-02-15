@@ -148,6 +148,11 @@ a bug.  This document was copied from the Cryptocat Wiki which was a copy from
 the Cryptocat git repository which was a copy from a text file on a hard disk.
 Historical information about the document has not been carefully tracked.
 
-##### 5. Authors
+##### 5. Authors and contributors
 
- This document was authored by a number of anonymous contributors
+This document was authored by a number of anonymous contributors
+It was also worked on by a few named individuals including but not
+limited to the following list: Andy Isaacson, Arturo Filasto, DrWhax, Jacob Appelbaum,
+Joseph Bonneau, Nadim Kobeissi and others.
+
+Please submit a pull request if you feel that your name belongs on this document.
