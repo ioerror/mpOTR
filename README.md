@@ -138,7 +138,28 @@ messages.
 > http://www.cypherpunks.ca/~iang/pubs/mpotr.pdf
 > SHA1(mpotr.pdf) = f32d0371d82a295bd5437797f0494071f65342a1
 
-##### 4. Historical note about this document:
+## Document information
+#### 1. License:
+
+This document was originally published by the Cryptocat Project under the [GNU Affero General Public License (AGPL3)](https://www.gnu.org/licenses/agpl-3.0.html):  
+```
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU Affero General Public License as
+published by the Free Software Foundation, either version 3 of the
+License, or (at your option) any later version.  
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU Affero General Public License for more details.  
+
+You should have received a copy of the GNU Affero General Public License
+along with this program. If not, see <http://www.gnu.org/licenses/>.
+```  
+
+The full license text is included in `LICENSE.txt`.  
+
+##### 2. Historical note about this document:
 
 This document is a collaborative effort by a number of people, often in person,
 over more than one full Earth year. It has lived in git repositories, email
@@ -150,10 +171,9 @@ Historical information about the document has not been carefully tracked.
 
 Nadim Kobeissi has asserted that this document is licensed under the AGPL
 without discussing with any of the other authors. This may or may not actually
-count as a LICENSE declaration. It is requested that all future contributions
-are to be licensed under the AGPL as documented in the LICENSE file.
+count as a LICENSE declaration.
 
-##### 5. Authors and contributors
+##### 3. Authors and contributors
 
 This document was authored by a number of anonymous contributors, and was also worked on by a few named individuals 
 including, but not limited to:
