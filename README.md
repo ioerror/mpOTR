@@ -150,7 +150,8 @@ Historical information about the document has not been carefully tracked.
 
 Nadim Kobeissi has asserted that this document is licensed under the AGPL
 without discussing with any of the other authors. This may or may not actually
-count as a LICENSE declaration.
+count as a LICENSE declaration. It is requested that all future contributions
+are to be licensed under the AGPL as documented in the LICENSE file.
 
 ##### 5. Authors and contributors
 
