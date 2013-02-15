@@ -152,7 +152,8 @@ Historical information about the document has not been carefully tracked.
 
 This document was authored by a number of anonymous contributors
 It was also worked on by a few named individuals including but not
-limited to the following list: Andy Isaacson, Arturo Filasto, DrWhax, Jacob Appelbaum,
-Joseph Bonneau, Nadim Kobeissi and others.
+limited to the following list: Abel Luck, Andy Isaacson, Arturo Filasto,
+DrWhax, Ian Goldberg, Jacob Appelbaum, Joseph Bonneau, Nadim Kobeissi and
+others.
 
 Please submit a pull request if you feel that your name belongs on this document.
